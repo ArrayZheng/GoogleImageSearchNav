@@ -2,6 +2,9 @@
 
 > 类似于googleimage搜索菜单动态效果
 
+![image](https://github.com/ArrayZheng/GoogleImageSearchNav/blob/master/static/image/googlenav.gif)
+
+![image](https://github.com/ArrayZheng/GoogleImageSearchNav/blob/master/static/image/selfnav.gif)
 ## Build Setup
 
 ``` bash
